@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Case Study1 Demo</h2>
+<h1>CaseStudy</h1>
+<h2>Testing Single Pipeline</h2>
 </body>
 </html>
