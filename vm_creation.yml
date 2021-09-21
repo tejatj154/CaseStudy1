@@ -37,12 +37,6 @@
             destination_port_range: 22
             access: Allow
             priority: 100
-            direction: Inbound
-          - name: webpage
-            protocol: "*"
-            destination_port_range: 8080
-            access: Allow
-            priority: 110
             direction: Inbound 
 
     - name: Create a virtual network interface card
